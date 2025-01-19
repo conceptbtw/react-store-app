@@ -1,18 +1,16 @@
-<h1 align="center">🛍️ Store</h1>
+# 🛍️ Store
 
 ###
 
-<h2>⚛️ Frontend</h2>
+## ⚛️ Frontend
 
 ###
 
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,mui,vite" height="48" alt="logos"  />
-</div>
+![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,mui,vite)
 
 ###
 
-<h2>✍️ Author</h2>
+## ✍️ Author
 
 ###
 
@@ -20,7 +18,7 @@
 
 ###
 
-<h2>📝 License</h2>
+## 📝 License
 
 ###
 
